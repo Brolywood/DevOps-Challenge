@@ -8,3 +8,5 @@ Second I think that fargate is a very good option to host the app because is a v
 There are more ways to host in AWS the app, for example I can replicate the same on-premise architecture with EC2 instances (for example virtual machines), but to choose the best option I would like to have more context and architecture specification about the service.
 
 The diagram represents the base architecture it can be more complex depending on the budget, so we can replicate the services in more availability zones for example
+
+![AWS ECS Fargate Service Diagram](diagram.png)
